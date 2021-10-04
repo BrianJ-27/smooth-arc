@@ -11,5 +11,11 @@
     "url": "y"
   },
   "author": "Brian Johnson",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-sass-guidelines": "^8.0.0",
+    "stylelint-config-standard": "^22.0.0"
+  }
 }
