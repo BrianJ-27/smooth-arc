@@ -1,0 +1,17 @@
+{
+    "name": "johns/smootharc",
+    "description": "Business Project for Website Design",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Johns\\Smootharc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brian Johnson",
+            "email": "johnson8727@gmail.com"
+        }
+    ],
+    "require": {}
+}
