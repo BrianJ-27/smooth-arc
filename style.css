@@ -1,3 +1,19 @@
+/*
+Theme Name: Smooth Arc
+Theme URI: https://smootharc.net/
+Author: Brian Johnson
+Author URI: https://brianbjohnson.net/
+Description: Template theme which will be the foundation to produce small business websites and client redesigns
+Tags: business, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, accessibility-ready
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: smootharc
+*/
+
 body {
   background-color: rgb(70, 57, 57);
   color: rgb(20, 97, 165);
